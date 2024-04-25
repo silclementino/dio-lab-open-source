@@ -13,6 +13,7 @@ Além disso, estou sempre em busca de maneiras de utilizar a tecnologia para tor
 ### Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sil_silva91/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:silclementino91)
+[![Meu Perfil DIO](https://www.dio.me/users/silclementino91)
 
 
 
